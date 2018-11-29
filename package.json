@@ -1,0 +1,11 @@
+{
+  "name": "DI_examples",
+  "version": "0.0.1",
+  "dependencies": {
+    "reflect-metadata": "0.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "8.9.4",
+    "typescript": "3.2.0-rc"
+  }
+}
